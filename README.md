@@ -1,0 +1,2 @@
+# MyGraduationFinalPaper
+This is my Graduation Final Paper in Automation Engineering at Federal University of Itajubá. It was about the data analysis and predict sales in a company that I realized my first internship. Unfortunately the data and the results are codified. In addition this scripts have my article in portuguese(BR) language.  I used the machine learning Random Forest Regressor to predict the sales and had compared them with the classical statistical methods called ARIMA and MA models.
